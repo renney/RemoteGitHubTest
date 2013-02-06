@@ -9,7 +9,7 @@ namespace ConsoleApplicationRemoteGitHub
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello World" + ".");
+            System.Console.WriteLine("Hello World" + "?");
             var read = System.Console.Read();
         }
     }
